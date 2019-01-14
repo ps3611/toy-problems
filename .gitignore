@@ -59,3 +59,45 @@ typings/
 
 # next.js build output
 .next
+
+
+
+Last login: Mon Jan 14 15:37:01 on ttys001
+➜  toy-problems git:(master) ✗ cd ..
+➜  GITHUB ls
+CodeworksX        hoolihomes        ps3611.github.io  tropsy
+django-playground officerooX        toy-problems      tropsy-cron
+➜  GITHUB cd tropsy-cron 
+➜  tropsy-cron git:(master) ✗ ls
+README.md src
+➜  tropsy-cron git:(master) ✗ ls -a
+.          ..         .DS_Store  .git       .gitignore README.md  src
+➜  tropsy-cron git:(master) ✗ vim .gitignore 
+
+
+
+
+
+
+
+
+
+# Environments
+.env
+.venv
+venv/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
