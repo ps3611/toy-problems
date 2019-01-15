@@ -19,6 +19,6 @@ function sherlockAndAnagrams(s) {
 }
 
 const s = 'qifaiqluhkqq';
-const result = sherlockAndAnagrams(s);
+const result = sherlockAndAnagrams(s); //n3 complexity
 console.log(result);
 

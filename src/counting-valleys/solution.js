@@ -9,5 +9,5 @@ function countingValleys(n, s) {
 }
 
 const s = ['U','D','D','D','U','D','U','U'];
-const result = countingValleys(s.length, s);
+const result = countingValleys(s.length, s); //linear complexity
 console.log(result);

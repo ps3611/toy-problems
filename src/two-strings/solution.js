@@ -9,5 +9,5 @@ function twoStrings(s1, s2) {
 
 const s1 = 'hello';
 const s2 = 'ward';
-const result = twoStrings(s1, s2);
+const result = twoStrings(s1, s2); //linear complexity
 console.log(result);

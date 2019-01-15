@@ -30,5 +30,5 @@ const queries = [
 [2, 10],
 [1, 6],
 [3, 3]];
-const result = freqQuery(queries);
+const result = freqQuery(queries); //n2 complexity
 console.log(result);

@@ -5,5 +5,5 @@ function rotLeft(a, d) {
 
 const a = [1,2,3,4,5];
 const d = 0;
-const result = rotLeft(a, d);
+const result = rotLeft(a, d); //constant complexity
 console.log(result);

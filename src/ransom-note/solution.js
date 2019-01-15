@@ -9,5 +9,5 @@ function checkMagazine(magazine, note) {
 
 const magazine = 'give me one grand today night';
 const note = 'give one grand today';
-const result = checkMagazine(magazine, note);
+const result = checkMagazine(magazine, note); // linear complexity
 console.log(result);

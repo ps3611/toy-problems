@@ -12,5 +12,5 @@ function sockMerchant(n, ar) {
 }
 
 const ar = [10, 20, 20, 10, 10, 30, 50, 10, 20];
-const result = sockMerchant(ar.length, ar);
+const result = sockMerchant(ar.length, ar); //linear complexity
 console.log(result);

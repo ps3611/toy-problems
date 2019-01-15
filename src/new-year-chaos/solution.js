@@ -25,5 +25,5 @@ function minimumBribes(q) {
 }
 
 const q = [1, 2, 5 ,3 ,7 ,8 ,6 ,4];
-const result = minimumBribes(q);
+const result = minimumBribes(q); // linear complexity
 console.log(result);

@@ -10,5 +10,5 @@ function jumpingOnClouds(c) {
 }
 
 const c = [0, 0, 0, 1, 0, 0];
-const result = jumpingOnClouds(c);
+const result = jumpingOnClouds(c); //linear complexity
 console.log(result);

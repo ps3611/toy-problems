@@ -9,5 +9,5 @@ function repeatedString(s, n) {
 
 const s = 'aba';
 const n = 10;
-const result = repeatedString(s, n);
+const result = repeatedString(s, n); // constant complexity
 console.log(result);

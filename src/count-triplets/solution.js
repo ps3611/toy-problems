@@ -13,5 +13,5 @@ function countTriplets(arr, r) {
 
 const arr = [1, 3, 9, 9, 27, 81];
 const r = 3;
-const result = countTriplets(arr, r) ;
+const result = countTriplets(arr, r); // linear complexity
 console.log(result);

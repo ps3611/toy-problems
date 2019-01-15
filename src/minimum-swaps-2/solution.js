@@ -18,5 +18,5 @@ function minimumSwaps(arr) {
 }
 
 const arr = [7, 1, 3, 2, 4, 5, 6];
-const result = minimumSwaps(arr);
+const result = minimumSwaps(arr); // linear complexity
 console.log(result);

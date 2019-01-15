@@ -14,5 +14,5 @@ function arrayManipulation(n, queries) {
 
 const queries = [[1,2 ,100],[2, 5 ,100],[3, 4 ,100]];
 const n = 5;
-const result = arrayManipulation(n, queries);
+const result = arrayManipulation(n, queries); //n2 complexity
 console.log(result);
